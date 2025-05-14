@@ -1,23 +1,24 @@
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+
+   criaCartao(
+    'conhecimentos gerais, historia do plno real.',
+    'Quantas transformações o ouveram antes de chegar no plano real?.',
+    'Overam 12 transformações antes de chegarmos no plano real.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'conhecimentos gerais, redes sociais',
+    'Qual o assunto mais comentado da atualidade?',
+    'o assunto mais comentado atualmente é sobre o novo papa, Leão 14.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Lingua dos objetos eletronicos',
+    'o que e libguagem binaria',
+    'lingyagem binaria e a lingua dos computadores, ela e de 1 e 0'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como usar a regra do ly?',
+    'a palavra ly = mente das palavres em português, por exeplo lindo, lindamente.'
 )
